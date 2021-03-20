@@ -1,9 +1,6 @@
 html{
     scroll-behavior: smooth;
 }
-header{
-    padding:50px;
-}
 
 img{
     border-radius: 50%;
@@ -19,7 +16,6 @@ img{
     text-align: center;
 }
 
-
 #container{
     box-shadow: 0px 0px 15px 5px rgba(0, 0, 255, .2);
 }
@@ -28,10 +24,31 @@ img{
     padding:50px;
 }
 
+#link-break{
+    padding:25px
+}
 .links{
     text-align: center;
 }
 
 .contact{
     text-align: center;
+}
+
+p{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+#bio{
+    padding-right: 25px;
+    text-align: justify;
+  
+}
+
+
+#name{
+    padding-right: 25px;
+    padding-left: 25px;
+    font-family: 'DM Sans', sans-serif;
 }
