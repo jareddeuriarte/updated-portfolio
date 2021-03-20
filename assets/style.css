@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+    font-size: 350%;
+}
+
+img{
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+container{
+    box-shadow: 5px 5px 10px 1px rgba(0, 0, 255, .2);
+}
