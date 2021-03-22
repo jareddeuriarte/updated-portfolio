@@ -52,3 +52,13 @@ p{
     padding-left: 25px;
     font-family: 'DM Sans', sans-serif;
 }
+
+.breakFree{
+    color: #222;
+    text-decoration: none;
+}
+
+.breakFree :hover{
+    cursor: text !important;
+    color: #222;
+}
