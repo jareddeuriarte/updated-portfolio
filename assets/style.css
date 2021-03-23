@@ -47,7 +47,6 @@ p{
   
 }
 
-
 #name{
     padding-right: 25px;
     padding-left: 25px;
@@ -67,3 +66,18 @@ p{
 #footer{
     padding:20px;
 }
+
+#philly{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+@media (max-width: 549px) {
+    #name {
+      text-align: center;
+    }
+    #philly{
+        text-align: center;
+    }
+  }
+
